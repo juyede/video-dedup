@@ -1,0 +1,39 @@
+
+# 测试视频
+test_videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 结果
+results/
+output/
+*.pkl
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
